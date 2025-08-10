@@ -1,0 +1,18 @@
+"Normal text" generally refers to plain text, which is text that is unformatted and contains only characters without any special formatting like bold, italics, or font styles. It's the simplest form of digital text and is used extensively in computing for coding, scripting, configuration files, and data storage. 
+Here's a more detailed explanation:
+Unformatted:
+Plain text lacks any formatting elements like bold, italics, font sizes, or colors. 
+Character-based:
+It only contains the actual text characters and basic whitespace characters like spaces, tabs, and line breaks. 
+Versatile:
+It's used in various applications where simple, consistent text representation is needed, such as:
+Source code: Programming languages often use plain text for code files (e.g., .java, .py). 
+Configuration files: Many applications use plain text files to store configuration settings. 
+Data storage: Plain text is used to store simple data in a human-readable format. 
+Communication: SMS messages (text messages) are a form of plain text communication. 
+Readability and editability:
+Plain text is easily read and edited using any text editor, making it convenient for developers and users. 
+Consistency:
+Because it lacks formatting, plain text ensures consistent rendering across different systems and platforms, which is crucial for programming and scripting. 
+Distinction from rich text:
+Rich text, unlike plain text, includes formatting elements and can be used in word processors and other applications that require more visually appealing content. 

@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+streamlit
+unstructured
+sentence-transformers
+langchain-huggingface
+tiktoken
+libmagic
+python-magic
+langchain-google-genai
+google-generativeai
